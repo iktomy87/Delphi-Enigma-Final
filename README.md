@@ -15,7 +15,7 @@
 * Iniciar duelo: Enter.
 
 ### Quiz
-* Colocar el mouse sobre la entrada de texto y escribir en mayusculas la opción seleccionar, luego presionar Enter
+* Colocar el mouse sobre la entrada de texto y escribir en mayusculas la opción seleccionada, luego presionar Enter
 
 ### Space Invaders
 * Mover jugador: Flecha izquierda y derecha.
