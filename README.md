@@ -5,7 +5,7 @@
 ## Cómo jugar.
 
 1. Arrastrar los archivos de la carpeta Assets a la imagen de Pharo.
-2. Arrastrar los archivos st al System Browser.
+2. Arrastrar los archivos de la carpeta Source al System Browser.
 3. Ejecutar en el Playground: DelphiEnigma jugar.
 
 ## Controles.
